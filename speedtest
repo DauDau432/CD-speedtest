@@ -1,6 +1,7 @@
 #!/bin/bash
 curl -s https://install.speedtest.net/app/cli/install.deb.sh | sudo bash
 sudo apt-get install speedtest
+clear
 echo ""
 echo ""
 echo " Cài Đặt Speedtest Thành Công "
