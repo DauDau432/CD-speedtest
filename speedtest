@@ -5,5 +5,7 @@ echo ""
 echo ""
 echo " Cài Đặt Speedtest Thành Công "
 echo ""
+echo " Bạn Bấm Y Để Đồng Ý Giấy Phép Nếu Chương Trình Hỏi " 
+echo ""
 speedtest
 echo ""
