@@ -4,9 +4,9 @@ sudo apt-get install speedtest
 clear
 echo ""
 echo ""
-echo " Cài Đặt Speedtest Thành Công "
+echo " CÀI ĐẶT SPEEDTEST THÀNH CÔNG "
 echo ""
-echo " Bạn Bấm Y Để Đồng Ý Giấy Phép Nếu Chương Trình Hỏi " 
+echo " Bạn bấm Y để đồng ý với giấy phép nếu là cài đặt lần đầu nó sẽ hỏi " 
 echo ""
 speedtest
 echo ""
