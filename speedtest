@@ -57,7 +57,7 @@ menu_speedtest()
         echo " === Số Bạn Chọn Không Có Trong Bảng Điều Khiển === "
         echo " "
         echo " ============ Chọn sai ời. chọn lại đi ============ "
-        menu
+        menu_speedtest
 	fi
 }
 
