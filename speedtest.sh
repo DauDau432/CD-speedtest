@@ -42,7 +42,7 @@ menu_speedtest()
         echo " "
         echo " =========== Ơ Kìa Sao Lại Đóng Menu =========== "
         echo " "
-        echo "  Nếu Muốn Thử Lại Hãy Nhập Lệnh:  speedtest "
+        echo "  Nếu Muốn Thử Lại Hãy Nhập Lệnh:  bash speedtest.sh "
         echo " ------------------------------------------------------- "
         echo "  YTB: https://www.youtube.com/channel/UCly-jPYF0jWZS12IdyVZqsg/featured "
         echo "  FB: https://www.facebook.com/daudau.432/ "
