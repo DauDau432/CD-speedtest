@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+sudo apt-get install bash
+sudo apt-get install curl
+sudo apt-get update -y
+rm speedtest.sh
+clear
+wget https://raw.githubusercontent.com/DauDau432/CD-speedtest/main/speedtest.sh
+chmod +x speedtest.sh
+clear
+bash speedtest.sh
